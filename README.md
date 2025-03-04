@@ -30,4 +30,4 @@ Receiver and Transmitter, upper and lower indicate the direction through the lay
 diagram) When transmitting we go to the lower layers of our node and then go through the
 upper layers of the receiver.
 
-![Layers of the Sytem](.NodeLayers/.png)
+![Layers of the Sytem](.NodeLayers.png)
